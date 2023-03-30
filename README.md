@@ -1,2 +1,2 @@
 # bigdata
-Big data for internet application slabs
+Big data for internet applications labs
